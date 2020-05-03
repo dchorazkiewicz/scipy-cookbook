@@ -1,0 +1,10 @@
+name: scipylec
+
+dependencies:
+  - python=3.8
+  - scipy
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - sympy

@@ -7,4 +7,5 @@ dependencies:
   - matplotlib
   - pandas
   - jupyterlab
+  - jupyter_client=5.3.1
   - sympy
